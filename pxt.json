@@ -1,7 +1,7 @@
 {
-    "name": "pxt-ubit-extension",
+    "name": "pxt-uiro",
     "version": "0.1.0-alpha",
-    "description": "(description: this description is written in pxt.json)",
+    "description": "UIRO is a traditional Nagoya sweet, too heavy and too big. That is why it is favored by the vain Nagoya people.",
     "dependencies": {
         "core": "*"
     },
@@ -9,10 +9,7 @@
         "README.md",
         "enums.d.ts",
         "shims.d.ts",
-        "src/custom.ts",
-        "src/custom.cpp",
-        "src/customlib.h",
-        "src/customlib.cpp"
+        "src/uiro.ts"
     ],
     "testFiles": [
         "test/test.ts"
