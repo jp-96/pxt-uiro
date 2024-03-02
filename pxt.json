@@ -1,6 +1,6 @@
 {
     "name": "pxt-uiro",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "description": "UIRO is a traditional Nagoya sweet, too heavy and too big. That is why it is favored by the vain Nagoya people.",
     "dependencies": {
         "core": "*"
@@ -16,7 +16,7 @@
     ],
     "targetVersions": {
         "target": "6.0.25",
-        "pxt": "9.0.15"
+        "targetId": "microbit"
     },
     "supportedTargets": [
         "microbit"
